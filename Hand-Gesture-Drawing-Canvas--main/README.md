@@ -50,15 +50,6 @@ python main.py
 Move your index finger to start drawing.
 The system tracks your finger and creates strokes on the canvas.
 Press 'Q' to exit.
-🔮 Future Enhancements
-✔️ Eraser Mode (Detect finger pinch to erase)
-✔️ Color Selection (Change colors using gestures)
-✔️ Line Thickness Control (Adjust line width dynamically)
-✔️ Gesture-Based UI for Additional Controls
 
-📢 Contributing
-Feel free to fork this project, create a pull request, or suggest improvements!
 
-🔗 LinkedIn: Muhammad Hassaan
 
-This project is licensed under the MIT License.
